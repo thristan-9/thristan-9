@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thristan Gabriel
 - 👀 I’m interested in build technologic solutions.
-- 🌱 I’m currently learning scalable code architecture.
 - 📫 How to reach me: www.linkedin.com/in/thristan-gabriel
 
 <!---
