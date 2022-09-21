@@ -1,4 +1,4 @@
-<h1> Hi My name is Thristan gabriel </h1>
+<h1> Hi! My name is Thristan gabriel </h1>
 
 <h2> Web Developer </h2>
 
