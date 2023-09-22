@@ -3,7 +3,7 @@
 <h2> React Developer </h2>
 
 <h3>
-  I Am 20 years old with 5 years of experience</p>
+  I Am 20 years old with 5 years of experience
   working in a Saas company.
 </h3>
 
