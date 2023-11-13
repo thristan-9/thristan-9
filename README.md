@@ -8,6 +8,6 @@
 </h3>
 
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/thristan-gabriel/" target="_blank">Linkedin</a>
-* 🖥️  See my portfolio at <a href="https://thristan-9.github.io/Portfolio/" target="blank">My Portfolio</a>
+* 🖥️  See my portfolio at <a href="https://thristan-9.github.io/Portfolio/" target="_blank">My Portfolio</a>
 
 
