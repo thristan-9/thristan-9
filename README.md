@@ -3,8 +3,7 @@
 <h2> React Developer </h2>
 
 <h3>
-  I Am 20 years old with 5 years of experience
-  working in a Saas company.
+  I Am 20 years old with 5 years of experience.
 </h3>
 
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/thristan-gabriel-deretti/" target="_blank">Linkedin</a>
