@@ -1,4 +1,4 @@
-<h1> Hi 👋 I'm Thristan </h1>
+<h1> I'm Thristan </h1>
 
 <h2> React Developer with 5 years of experience </h2>
 
