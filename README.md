@@ -3,7 +3,7 @@
 <h2> React Developer with 5 years of experience </h2>
 
 <h3>
-  Very positive, hard-working and competent web developer who loves to take on and overcome challenging Projects.
+  Very positive and competent web developer who loves to take on and overcome challenging Projects.
 </h3>
 
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/thristan-gabriel-deretti/" target="_blank">Linkedin</a>
