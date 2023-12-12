@@ -3,10 +3,6 @@
 <h2> React Developer with 5 years of experience </h2>
 
 <h3>
-  Very positive and competent web developer who loves to take on and overcome challenging Projects.
-</h3>
-
-<h3>
   I can help your organization translate the business needs into beautiful interfaces
 that guide the user to the best decisions with a good user experience and design.
 </h3>
