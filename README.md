@@ -1,6 +1,6 @@
 <h1> I am Thristan </h1>
 
-<h2> React Developer with 5 years of experience </h2>
+<h2> React Developer with 6 years of experience </h2>
 
 <h3>
   I can help your organization translate the business needs into beautiful interfaces
